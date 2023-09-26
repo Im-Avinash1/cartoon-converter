@@ -1,5 +1,9 @@
 # cartoon-converter
 A machine learning project to convert an image into a cartoon is a project that uses machine learning techniques to transform a real-world image into a cartoon version of itself. This can be done by using a variety of techniques, such as edge detection, colorization, and texture generation.
+Output
+![original2](https://github.com/Im-Avinash1/cartoon-converter/assets/64365128/047dc05f-f8ae-4862-b3ba-606ba581937e) ![cartoon1](https://github.com/Im-Avinash1/cartoon-converter/assets/64365128/8e36405e-694e-4675-b13f-87bc265e9b41)
+
+
 
 Project Objectives
 
